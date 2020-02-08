@@ -1,0 +1,3 @@
+/Users/amp/CLionProjects/floatingPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/amp/CLionProjects/floatingPrime/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amp/CLionProjects/floatingPrime/cmake-build-debug/CMakeFiles/floatingPrime.dir
